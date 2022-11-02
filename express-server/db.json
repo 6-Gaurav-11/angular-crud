@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Gaurav",
+      "mobile": "8888888888",
+      "email": "gaurav@gaurav.com",
+      "password": "gggggggggg",
+      "id": 1
+    },
+    {
+      "name": "Gaurav",
+      "mobile": "8888888888",
+      "email": "gaurav@gaurav.com",
+      "password": "gggggggggg",
+      "id": 3
+    },
+    {
+      "name": "Gaurav",
+      "mobile": "8888888888",
+      "email": "gaurav@gaurav.com",
+      "password": "gggggggggg",
+      "id": 4
+    }
+  ]
+}
